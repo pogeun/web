@@ -1,0 +1,35 @@
+body {
+    font-family: 'Poor story', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+.gugi-font {
+    font-family: 'Poor story', cursive;
+}
+
+  
+
+/* 네비게이션 영역 */
+.nav-link:hover,
+.nav-link.active {
+    color: #ffd17b !important;
+}
+
+
+/* 헤더 영역 */
+header {
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.252), rgba(0, 0, 0, 0.082)), url(images/header-bg.jpg);
+    background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;
+}
+
+body {
+    background-image:url(images/home-bg.jpg);
+    background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;
+}
